@@ -10,6 +10,7 @@ function App() {
         <p>
           hola amigos! this is my first react app!
         </p>
+      </header>
     </div>
   );
 }
